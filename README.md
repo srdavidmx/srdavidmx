@@ -1,16 +1,21 @@
-## Hi there 👋
+# David Pech(david.pech)
 
-<!--
-**srdavidmx/srdavidmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Es un workspace con código fuente para implementaciones multiplataforma
 
-Here are some ideas to get you started:
+## Información
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    * Full Stack Developer.
+    * Sistemas Operativos Unix/Linux, Mac OS y Windows. 
+    * Implementación en multiples lenguajes de programación(Web y Escritorio).
+    * Docker Containers.
+    * Programación Front-End y Back-End.
+    * Bases de datos relacionales.
+    * Capacitación constante.
+
+## Contribuciones
+
+Cualquier contribución y/o aporte es bienvenido.
+
+## Contacto
+    * dpechcutz@gmail.com
+    * https://twitter.com/dpechcutz
